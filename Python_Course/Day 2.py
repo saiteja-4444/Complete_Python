@@ -26,7 +26,7 @@ variable is a name given to memory location.
 """
 
 # Data Types!
-""" 
+"""
 Here data Types are 5 types.
 1.Dictinories
 2.Numerical
