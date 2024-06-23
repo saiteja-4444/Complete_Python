@@ -1,0 +1,13 @@
+1.what is the difference between byte code and intermediate code?
+Ans: Byte code is consider as intermediate level code and 
+Machine code is consider as the low level code.
+
+
+2.Difference between interpreter and compiler?
+Ans: compiler tekes entire program to run.But interpreter takes single line of code to execute.
+
+
+3.Is python compiled or interpreted language?
+Ans: python is both compiler and interpreted language.
+
+
