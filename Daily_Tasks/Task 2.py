@@ -2,7 +2,7 @@
 p=int(input("Enter a value:"))
 t=int(input("Enter a value:"))
 r=int(input("Enter a value:"))
-print(p*t*r%100)
+print(p*t*r/100)
 
 
 # Area of Triangle 
