@@ -1,4 +1,4 @@
-# # write a simple and compound intrest program.
+# write a simple and compound intrest program.
 p=int(input("Enter a value:"))
 t=int(input("Enter a value:"))
 r=int(input("Enter a value:"))
