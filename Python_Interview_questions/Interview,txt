@@ -19,4 +19,11 @@ Ans: py files are python source files and pyc files are compiled byte code files
 Ans: Boolean is an bulit in data type in python. And it has two values 1)True 2)False
 
 
-6.
+6.What is the difference between pass and continue statement in python?
+Ans: Continue:- continue statement make the loop to resume from the next iteration.
+     pass:- pass statement instruct the loop to do nothing and execute the code as usual.
+
+
+7.Difference between for and while loops?
+Ans: for loop:- it execute a sequence of statement at several times.
+     while loop:- it repeat a single statement or a group statement for the true condition.
