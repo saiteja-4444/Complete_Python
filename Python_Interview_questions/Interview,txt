@@ -27,3 +27,8 @@ Ans: Continue:- continue statement make the loop to resume from the next iterati
 7.Difference between for and while loops?
 Ans: for loop:- it execute a sequence of statement at several times.
      while loop:- it repeat a single statement or a group statement for the true condition.
+
+
+8.What is type conversion in python?
+Ans: Conversion one data type into another data type is called type conversion.
+Example - int(),float().
