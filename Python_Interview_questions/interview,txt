@@ -31,4 +31,5 @@ Ans: for loop:- it execute a sequence of statement at several times.
 
 8.What is type conversion in python?
 Ans: Conversion one data type into another data type is called type conversion.
+
 Example - int(),float().
