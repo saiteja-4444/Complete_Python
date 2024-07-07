@@ -1,1 +1,67 @@
+# if statements
+# if True:
+#     print("hello")
 
+
+# a=100
+# if a==100:
+#     print(a)
+
+
+# if True:
+#     print("hi")
+#     if True:
+#         print("how are you")
+#     else:
+#         ("bye")
+# else:
+#     print("hmm")
+
+
+
+
+# short hand if statement
+# a="hi"
+# if True: print(a)
+
+
+# short hand if else statement
+# a=int(input("Enter:"))
+# b=int(input("Enter:"))
+# print("Equal") if a==b else print("Not Equal")
+
+
+
+# a=int(input())
+# b=int(input())
+# if a!=b:
+#     print("Not Equal")
+# elif a==b:
+#     print("Equal")
+
+
+
+
+# a=int(input())
+# if a>0:
+#     print("Positive")
+# elif a<0:
+#     print("Negative")
+# else:
+#     print("zero")
+
+
+
+
+
+# password Autentication
+# Email="sai@gamail.com"
+# passwd="sai123"
+# Email=input("Enter your email:")
+# password=input("Enter your password:")
+# # print("success" if Email==Email and password==passwd else "Wrong password")
+#second method
+# if Email == Email and password == passwd:
+#     print("Success")
+# else:
+#     print("invalid")
