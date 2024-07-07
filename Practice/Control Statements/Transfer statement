@@ -1,1 +1,28 @@
+"""
+Jumping statement or Transfer Statement
+1.Continue
+2.Break
+3.Pass
+"""
 
+
+# for i in "hiiibyee":
+#     if i=="b":
+#         break
+        
+#     print(i)
+
+
+
+
+
+# for i in "hiiibyee":
+#     if i=="b":
+#         continue
+        
+#     print(i)
+
+
+# for i in "hiiibyee":
+#     if i=="b":
+#         pass
