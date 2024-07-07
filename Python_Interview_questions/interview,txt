@@ -1,3 +1,7 @@
+                                                            # Day 1
+
+
+
 1.what is the difference between byte code and intermediate code?
 Ans: Byte code is consider as intermediate level code and 
      Machine code is consider as the low level code.
@@ -9,6 +13,10 @@ Ans: compiler tekes entire program to run.But interpreter takes single line of c
 
 3.Is python compiled or interpreted language?
 Ans: python is both compiler and interpreted language.
+
+                                                           
+                                                            # Day 2
+
 
 
 4.what is difference between .py and .pyc files?
@@ -22,6 +30,11 @@ Ans: Boolean is an bulit in data type in python. And it has two values 1)True 2)
 6.What is the difference between pass and continue statement in python?
 Ans: Continue:- continue statement make the loop to resume from the next iteration.
      pass:- pass statement instruct the loop to do nothing and execute the code as usual.
+
+
+
+                                                             # Day 3
+
 
 
 7.Difference between for and while loops?
