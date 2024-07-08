@@ -45,3 +45,9 @@ reverse
 sai=[2,3,45]
 sai.append("python")
 print(sai)
+
+
+# extend method
+sai=[23,34,52]
+sai.extend(['python',12,34,'okay'])
+print(sai)
