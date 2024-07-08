@@ -1,2 +1,7 @@
+# this is the list
 l=[1,2,3,4.5,"hello"]
 print(type(l))
+
+# This is the list we are giving manually
+my_list = list("100")
+print(type(my_list))
