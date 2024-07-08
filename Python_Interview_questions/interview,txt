@@ -13,7 +13,7 @@ Ans: compiler tekes entire program to run.But interpreter takes single line of c
 Ans: python is both compiler and interpreted language.
 
                                                            
- # Day 2
+                                                             # Day 2
 
 
 4.what is difference between .py and .pyc files?
@@ -30,7 +30,7 @@ Ans: Continue:- continue statement make the loop to resume from the next iterati
 
 
 
-# Day 3
+                                                            # Day 3
 
 
 
@@ -46,4 +46,4 @@ Ans: Conversion one data type into another data type is called type conversion.
 Example - int(),float().
 
 
-# Day 4
+                                                            # Day 4
