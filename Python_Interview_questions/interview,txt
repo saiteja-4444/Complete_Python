@@ -1,7 +1,5 @@
                                                             # Day 1
 
-
-
 1.what is the difference between byte code and intermediate code?
 Ans: Byte code is consider as intermediate level code and 
      Machine code is consider as the low level code.
@@ -16,7 +14,6 @@ Ans: python is both compiler and interpreted language.
 
                                                            
                                                             # Day 2
-
 
 
 4.what is difference between .py and .pyc files?
@@ -34,6 +31,7 @@ Ans: Continue:- continue statement make the loop to resume from the next iterati
 
 
                                                              # Day 3
+
 
 
 
