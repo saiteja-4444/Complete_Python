@@ -19,7 +19,7 @@ while a<=n:
     a+=1
 
 
-# single table cretion using while loop
+# single table creation using while loop
 
 a=int(input("enter your table:"))
 b=1
