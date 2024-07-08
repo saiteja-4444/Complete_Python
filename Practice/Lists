@@ -51,3 +51,40 @@ print(sai)
 sai=[23,34,52]
 sai.extend(['python',12,34,'okay'])
 print(sai)
+
+
+# count
+sai=[23,34,52,21,23,21,667,8,32,21]
+print(sai.count(21))
+
+# index
+sai=[23,34,52,21,23,21,667,8,32,21]
+print(sai.index(667))
+
+# pop 
+sai=[23,34,52,21,23,21,667,8,32,21]
+sai.pop(5)
+print(sai)
+
+
+# remove
+sai=[23,34,52,21,23,21,667,8,32,21]
+sai.remove(21)
+print(sai)
+
+
+# insert
+sai=[23,34,52,21,23,21,667,8,32,21]
+sai.insert(1,'hello')
+print(sai)
+
+
+# sort 
+sai=[23,34,52,21,23,21,667,8,32,21]
+sai.sort()
+print(sai)
+
+# reverse
+sai=[23,34,52,21,23,21,667,8,32,21]
+sai.reverse()
+print(sai)
