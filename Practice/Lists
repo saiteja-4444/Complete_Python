@@ -39,3 +39,9 @@ remove
 insert 
 sort 
 reverse 
+
+
+# append method
+sai=[2,3,45]
+sai.append("python")
+print(sai)
