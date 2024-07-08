@@ -22,3 +22,20 @@ print(rohit[-7:-2])
 print(rohit[::])
 print(rohit[::])
 print(rohit[:])
+
+
+"""
+List Methods
+"""
+
+append
+extend 
+copy 
+clear
+count 
+index 
+pop 
+remove 
+insert 
+sort 
+reverse 
