@@ -1,4 +1,4 @@
-# this is the list
+# This is the list
 l=[1,2,3,4.5,"hello"]
 print(type(l))
 
