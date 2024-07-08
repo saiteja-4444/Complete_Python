@@ -53,6 +53,17 @@ sai.extend(['python',12,34,'okay'])
 print(sai)
 
 
+# copy
+sai=[23,34,52]
+t=sai.copy()
+sai.append("nooo")
+print(sai,t)
+
+# clear
+sai=[23,34,52]
+sai.clear()
+print(sai)
+
 # count
 sai=[23,34,52,21,23,21,667,8,32,21]
 print(sai.count(21))
