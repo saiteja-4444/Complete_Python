@@ -12,7 +12,7 @@ while a<=10:
     a+=1
 ```
 
-# Single table creation using for loop
+# Single table creation using while loop
 
 ``` python
 a=int(input("enter your table:"))
