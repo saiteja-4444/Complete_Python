@@ -20,10 +20,12 @@ monty python circus show later he release in 1991 python 1.9 was realsed.
 He is inspried form ABC Language and modula-3.
 
 # Features of python...!
-Free and open source.
-Easy to code.
-Easy to read.
-Object oriented Language.
-GUI programming support.
-High level language
-Easy to debug.
+- Free and open source.
+- Easy to code.
+- Easy to read.
+- Object oriented Language.
+- GUI programming support.
+- High level language.
+- Easy to debug.
+
+
