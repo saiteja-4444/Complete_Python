@@ -1,6 +1,5 @@
 # Lists Methods
 ``` python
-# append
 append ()
 extend ()
 copy ()
@@ -16,6 +15,7 @@ reverse ()
 
 
 ``` python
+# append
 sai=[2,3,45]
 sai.append("python")
 print(sai)
