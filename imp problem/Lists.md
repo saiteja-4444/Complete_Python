@@ -75,11 +75,19 @@ print(sai)
 ```
 # Dyamic way to represent the lists
 ```
-dynamic way to give the values in list
+# Dynamic way to give the values in list
 lst=[]
 a=int(input('Enter how many values you want:'))
 for i in range(0,a):
     ele=input()
     lst.append(ele)
+print(lst)
+```
+# Removing the duplicate values in the list
+```
+# Removing of duplicate values
+l=[1,2,3,4,5,6,2,34,53,24,54,2,34,53,2]
+lst=[]
+([lst.append(i) for i in l if i not in lst])
 print(lst)
 ```
