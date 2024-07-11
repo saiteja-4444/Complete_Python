@@ -1,6 +1,13 @@
 # Table Creation using for Loop
 
+``` python
+for i in range(0,11):
+    for j in range(0,11):
+        print(i,'*',j,'=',i*j)
+    print()
+```
 
+# Table creation using While Loop
 ``` python
 a=1
 while a<=10:
@@ -21,9 +28,6 @@ while b<=10:
     print(a,'*',b,'=',a*b)
     b+=1
 ```
-
-
-
 
 
 # Dynamic waty for table creation using while Loop
