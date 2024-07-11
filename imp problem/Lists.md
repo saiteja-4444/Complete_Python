@@ -73,3 +73,13 @@ sai.reverse()
 print(sai)
 
 ```
+# Dyamic way to represent the lists
+```
+dynamic way to give the values in list
+lst=[]
+a=int(input('Enter how many values you want:'))
+for i in range(0,a):
+    ele=input()
+    lst.append(ele)
+print(lst)
+```
