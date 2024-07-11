@@ -19,6 +19,14 @@ while a<=10:
     a+=1
 ```
 
+# Single table creation using for loop
+``` python
+n=int(input("Enter your table:"))
+for i in range(n,n+1):
+    for j in range(0,11):
+        print(i,'*',j,'=',i*j)
+```
+
 # Single table creation using while loop
 
 ``` python
