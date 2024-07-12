@@ -84,12 +84,12 @@ print(s)
 
 # Dynamic way to replace the string
 ``` python
-a="now the situation in out of my hands but still i was lazy."
+a="way there is a will they is a way"
 b=a.split()
 c=[]
 for i in b:
-    if i=="out":
-        i="in"
+    if i=="they":
+        i="there"
         c.append(i)
     else:
         c.append(i)
