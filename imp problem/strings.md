@@ -81,3 +81,19 @@ data="i am good am are worst"
 s=data.replace("am","he").replace("good","bad").replace("i","they").replace("are","in")
 print(s)
 ```
+
+# Dynamic way to replace the string
+``` python
+a="now the situation in out of my hands but still i was lazy."
+b=a.split()
+c=[]
+for i in b:
+    if i=="out":
+        i="in"
+        c.append(i)
+    else:
+        c.append(i)
+    f="".join(c)
+print(c)
+print(type(f))
+```
