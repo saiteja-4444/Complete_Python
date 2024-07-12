@@ -93,7 +93,7 @@ for i in b:
         c.append(i)
     else:
         c.append(i)
-    f="".join(c)
+    e="".join(c)
 print(c)
-print(type(f))
+print(type(e))
 ```
