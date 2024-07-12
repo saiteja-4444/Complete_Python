@@ -1,5 +1,5 @@
 # String Methods
-```
+``` python
 lower ()
 upper ()
 endswith ()
